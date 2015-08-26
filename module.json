@@ -1,0 +1,17 @@
+{
+    "name": "Test",
+    "alias": "test",
+    "description": "",
+    "version": "v0.1",
+    "keywords": [],
+    "active": 1,
+    "order": 1,
+    "providers": [
+        "Modules\\Test\\Providers\\TestServiceProvider",
+        "Modules\\Test\\Providers\\RouteServiceProvider"
+    ],
+    "aliases":{},
+    "files": [
+        
+    ]
+}
